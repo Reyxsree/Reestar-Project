@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+
+
+.container{
+    margin: 10px;
+    background-color:#FEFAE0;
+}
+.section-one{
+    background-color:#B5C18E;
+    color:#481E14;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+}
+ .section-one p{
+    color:#481E14;
+ }
+
+ .contact{
+    margin-top: 20px;
+    padding: 30px;
+    background-color: #B5C18E;
+    color: #481E14;
+    text-align: center;
+ }
+ .contact-one{
+    display: inline-block;
+    margin-top: 10px;
+ }
+
+ .contact-one__button{
+    display: block;
+    align-items: center;
+    background-color: #481E14;
+    color: white;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 10px;
+ }
+
+ .section-two{
+    margin-top: 10px;
+    padding: 10px;
+    height: 350px;
+    width: 200px;
+    border: solid #481E14 5px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    background-color: #DEAC80;
+ }
+
+.section-two button{
+    margin: 10px;
+    background-color: #481E14;
+    color: white;
+    padding: 5px;
+    border: none;
+}
+.section-two h4{
+    text-decoration: line-through;
+}
+.section-two_desc{
+    text-align: center;
+    vertical-align: top;
+}
+.contact-one__input{
+    margin-top: 10px;
+    border: none;
+    border-bottom: #481E14;
+}
